@@ -4,6 +4,6 @@ simple template for DPP
 ## USAGE
 1. execute `fetchdeps.sh`
 2. add your stuff
-3. build everything by executing buildprogram.sh
+3. build everything by executing `buildprogram.sh`
 
-create an issue if stuff ain't working!
+**create an issue if stuff ain't working!**
