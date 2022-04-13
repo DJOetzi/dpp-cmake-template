@@ -1,5 +1,5 @@
 # dpp-cmake-template
-simple template for DPP
+simple template for DPP for Ubuntu based systems
 
 ## USAGE
 1. execute `fetchdeps.sh`
